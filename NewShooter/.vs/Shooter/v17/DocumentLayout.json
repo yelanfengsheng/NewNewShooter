@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|g:\\myunity\\unity\u9879\u76EE\\shooter\\assets\\scripts\\box\\rewardbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\rewardbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|g:\\myunity\\unity\u9879\u76EE\\shooter\\assets\\scripts\\player\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\player\\myplayerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\myplayerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|g:\\myunity\\unity\u9879\u76EE\\shooter\\assets\\scripts\\box\\addheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\addheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\enemy\\myenemyatk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\myenemyatk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\ui\\heartcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\heartcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\ui\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\managers\\myenemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\myenemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\ui\\panlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\panlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF851E19-9CD7-2778-DB7D-F1866535E563}|Assembly-CSharp-Editor.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\_completedassets\\mobileinput\\scripts\\editor\\crossplatforminputinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF851E19-9CD7-2778-DB7D-F1866535E563}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_completedassets\\mobileinput\\scripts\\editor\\crossplatforminputinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\assets\\scripts\\camera\\camerafollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FEC6DC-F79B-B98E-4C85-31DA3C9D3FFE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerafollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddHeart.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Box\\AddHeart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\AddHeart.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Box\\AddHeart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\AddHeart.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:04:08.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyPlayerHealth.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Player\\MyPlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MyPlayerHealth.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Player\\MyPlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MyPlayerHealth.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwF4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:27:22.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RewardBox.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Box\\RewardBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\RewardBox.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Box\\RewardBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\RewardBox.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:59:58.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Player\\Shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Shooting.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Player\\Shooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Shooting.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAWwDEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:00:29.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddScore.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\UI\\AddScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\AddScore.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\UI\\AddScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\AddScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:52:15.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeartControl.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\UI\\HeartControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HeartControl.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\UI\\HeartControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HeartControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA+wBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:03:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyEnemyAtk.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Enemy\\MyEnemyAtk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\MyEnemyAtk.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Enemy\\MyEnemyAtk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\MyEnemyAtk.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:24:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vyYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:45:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyEnemyManager.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Managers\\MyEnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MyEnemyManager.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Managers\\MyEnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\MyEnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:43:13.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:36:18.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraFollower.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Camera\\CameraFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraFollower.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Camera\\CameraFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraFollower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T08:03:39.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PanleControl.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\UI\\PanleControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PanleControl.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\UI\\PanleControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PanleControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:46:53.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:27:47.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrossPlatformInputInitialize.cs",
+              "DocumentMoniker": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\_CompletedAssets\\MobileInput\\Scripts\\Editor\\CrossPlatformInputInitialize.cs",
+              "RelativeDocumentMoniker": "Assets\\_CompletedAssets\\MobileInput\\Scripts\\Editor\\CrossPlatformInputInitialize.cs",
+              "ToolTip": "G:\\MyUnity\\Unity\u9879\u76EE\\Shooter\\Assets\\_CompletedAssets\\MobileInput\\Scripts\\Editor\\CrossPlatformInputInitialize.cs",
+              "RelativeToolTip": "Assets\\_CompletedAssets\\MobileInput\\Scripts\\Editor\\CrossPlatformInputInitialize.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T06:37:05.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
